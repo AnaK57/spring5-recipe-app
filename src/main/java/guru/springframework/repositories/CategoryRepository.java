@@ -1,6 +1,7 @@
 package guru.springframework.repositories;
 
 import guru.springframework.domain.Category;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.Optional;
